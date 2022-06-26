@@ -7,3 +7,5 @@ As a purist mathematician, I already had experience in these fields, but the pro
 One initial approach to this concept is the "Universal Approximation Theorem" proposed by George Cybenko in 1989. This theorem proves that the Multilayer Perceptron approaches any continuous function as much as we want without ensuring complete convergence.
 
 In this first document, we answer the question ¿Why does multilayer perceptron have this structure? Exploring the mathematical concept of itself and the significates of activation functions.
+
+<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
