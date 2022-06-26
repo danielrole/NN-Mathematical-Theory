@@ -1,3 +1,8 @@
+<!-- MathJax -->
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 1. Reporte el error de predicción aparente o por resubstitución.
 2. Estime el error de predicción por k-fold cross validation. Experimente por lo menos tres valores diferentes de k y B > 100 repeticiones. Compárelo con el error de entrenamiento, i.e. la suma de residuos al cuadrado obtenidos con el modelo ajustado con todas las observaciones. Comente sobre los resultados obtenidos.
 
