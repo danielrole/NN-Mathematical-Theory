@@ -8,4 +8,4 @@ One initial approach to this concept is the "Universal Approximation Theorem" pr
 
 In this first document, we answer the question ¿Why does multilayer perceptron have this structure? Exploring the mathematical concept of itself and the significates of activation functions.
 
-<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+This site was built using [Notas](https://github.com/danielrole/NN-Mathematical-Theory/raw/main/MainNotas.pdf)
