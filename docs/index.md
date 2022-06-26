@@ -5,7 +5,7 @@
 
 El error de predicción de un modelo de regresión lineal con variable respuesta Y y p predictores es el conocido ECM:
 
-$$ error_{pred} = \sum_{i=1}^{n}\dfrac{(y_i - \hat{y}_i)^2}{n-p-1} = ECM$$
+$$ error_{pred} = \sum_{i=1}^{n}\dfrac{(y_i - \hat{y}_i)^2}{n-p-1} = ECM$$\\
 
 El de un modelo maás general como el de regresión logística o de discriminante, el error de predicción se le conoce como error
 aparente o por resubstitución (training error with full sample):
