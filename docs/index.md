@@ -16,4 +16,4 @@ This project is in charge of [Daniel Robles Leong](https://www.linkedin.com/in/d
 
 Ariadna Amayrani Ferrari Pardiño - Jorge Iván Reyes Hernández - Enrique Jiménez Villarreal - Noel De la Cruz Velasquez - Ángel Edmundo Hernández Martínez - Axel Francisco Leon Paloma - César Miguel Aguirre Calzadilla - Rodrigo Emanuel Albarrán Ruiz
 
-Can be downloaded here: [Class Notes (Spanish)](https://github.com/danielrole/NN-Mathematical-Theory/raw/main/MainNotas.pdf)
+Can be downloaded here: [Class Notes (Spanish)](https://github.com/danielrole/Portfolio/blob/main/MainNotas.pdf)
