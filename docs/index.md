@@ -3,7 +3,7 @@ One initial approach to this concept is to understand Neural Networks' universal
 
 This notebook answer the question ¿Why does multilayer perceptron have this structure?. Explore an example of a neural network, and visualize the convergence with different activation functions.
 
-Acknowledgments: This project was released for the Neural Networks Applications Seminar [2022-2](Seminario de Ciencias de la Computación A, Grupo 7137. Horario 2022-2 (unam.mx)). Taught by Dr. Humberto Andrés Carrillo Calvet, Director of the Laboratory of Nonlinear Dynamics, Department of Mathematics, Faculty of Sciences, UNAM.
+Acknowledgments: This project was released for the Neural Networks Applications Seminar [2022-2](https://web.fciencias.unam.mx/docencia/horarios/detalles/333696). Taught by Dr. Humberto Andrés Carrillo Calvet, Director of the Laboratory of Nonlinear Dynamics, Department of Mathematics, Faculty of Sciences, UNAM.
 
 See here: [Introduction to Neural Network Structure](https://github.com/danielrole/Portfolio/blob/main_1/Introduction%20to%20Neural%20Network%20Structure/Introduction_to_Neural_Network_Structure.ipynb)
 
