@@ -1,7 +1,7 @@
 ## Introduction to Neural Network Structure
-One initial approach to this concept is the "Universal Approximation Theorem" proposed by George Cybenko in 1989. This theorem proves that the Multilayer Perceptron approaches any continuous function as much as we want without ensuring complete convergence.
+One initial approach to this concept is to understand Neural Networks' universality. These have different approximations, like George Cybenko theorem, proposed in 1989, using sigmoid and discriminant activation. This theorem proves that the Multilayer Perceptron approaches any continuous function as much as we want without ensuring complete convergence.
 
-In this notebook, we answer the question ¿Why does multilayer perceptron have this structure? Exploring the mathematical concept of itself and the significates of activation functions.
+This notebook answer the question ¿Why does multilayer perceptron have this structure?. Explore an example of a neural network, and visualize the convergence with different activation functions.
 
 See here: [Introduction to Neural Network Structure](https://github.com/danielrole/Portfolio/blob/main_1/Introduction%20to%20Neural%20Network%20Structure/Introduction_to_Neural_Network_Structure.ipynb)
 
