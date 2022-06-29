@@ -1,4 +1,4 @@
-#Long-Short Term Memory Approximation:
+# Long-Short Term Memory Approximation:
 
 As Minsky & Papert share in their book perceptrons, these structures have deficiencies. A move forward is to explore the architecture and training of Long-Short Term Memory (LSTM) networks for the Regression Problem, Which is trying to reconstruct the original analytical function with noisy observations.
 
