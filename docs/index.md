@@ -1,3 +1,10 @@
+## Long-Short Term Memory Approximation:
+As Minsky & Papert share in their book perceptrons, these structures have deficiencies. A move forward is to explore the architecture and training of Long-Short Term Memory (LSTM) networks for the Regression Problem, Which is trying to reconstruct the original analytical function with noisy observations.
+
+This project is the tracking of Multilayer approximation, developed in collaboration with Ph.D. student Gerardo Mártin Franco Cordova as part of my collaboration in SUPPORT PROGRAM FOR RESEARCH AND TECHNOLOGICAL INNOVATION PROJECTS.
+
+See here: [Long-Short Term Memory Approximation](https://github.com/danielrole/Portfolio/blob/main_1/Long-Short%20Term%20Memory%20Approximation/LSTM_noisy.ipynb)
+
 ## Introduction to Neural Network Structure
 One initial approach to this concept is to understand Neural Networks' universality. These have different approximations, like George Cybenko theorem, proposed in 1989, using sigmoid and discriminant activation. This theorem proves that the Multilayer Perceptron approaches any continuous function as much as we want without ensuring complete convergence.
 
