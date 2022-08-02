@@ -2,10 +2,12 @@
 ## Switzerland PV
 A group of students of which I was a member tried to replicate a method to predict PV production in Switzerland by neural network models, original model: [here](https://arxiv.org/abs/2107.13875).
 
-Here my controbution to visualize the method:
+Here is my contribution to visualize the method:
 * [Graphics of Switzerland](https://github.com/danielrole/Portfolio/blob/main_1/Switzerland%20PV/Graficas%20Latex.ipynb)
 * [Switzerland Graph](https://github.com/danielrole/Portfolio/blob/main_1/Switzerland%20PV/Gr%C3%A1ficas%20Ponderadas%20(Samples).ipynb)
 * [Local Graph](https://github.com/danielrole/Portfolio/blob/main_1/Switzerland%20PV/Gr%C3%A1ficas%20Ponderadas.ipynb)
+
+Here is my contribution to obtaining data:
 
 ## Visualization and Estimation in Beers Families
 This project was born as my first try at answering a simple question based on data: How probable is one beer to like me as a function of my experience with another?
