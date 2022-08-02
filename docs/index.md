@@ -2,7 +2,7 @@
 ## Visualization and Estimation in Beers Families
 This project was born as my first try at answering a simple question based on data: How probable is one beer to like me as a function of my experience with another?
 
-I must be honest, this scripts have many baby steps, I consider them noteworthy due to all that they involve: Understanding a field, searching for data, cleaning this data, purpose a model, and explaining results was a rich experience.
+To be honest, this scripts have many baby steps, I consider them noteworthy due to all that they involve: Understanding a field, searching for data, cleaning this data, purpose a model, and explaining results was a rich experience.
 
 * [01_Exploración de datos](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Visualization%20(Yed)/01_Exploraci%C3%B3n%20de%20datos.ipynb) is an initial approach to the dataset "Beers, Breweries, and Beer Reviews" obtained in Kaggle.
 
