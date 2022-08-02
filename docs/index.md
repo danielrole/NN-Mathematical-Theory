@@ -6,7 +6,7 @@ See our results here:
 * [code](https://github.com/danielrole/Portfolio/blob/main_1/MINST/MINST%20MLP%20%26%20CNN.ipynb)
 * [report](https://github.com/danielrole/Portfolio/blob/main_1/MINST/Proyecto_Guzman_Santoscoy_Robles.pdf)
 
-## Switzerland PV
+## Switzerland PV Production Studio 
 A group of students of which I was a member tried to replicate a method to predict PV production in Switzerland by neural network models, original model: [here](https://arxiv.org/abs/2107.13875).
 
 Here is my contribution to visualize the method:
