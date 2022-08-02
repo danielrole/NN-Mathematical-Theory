@@ -12,7 +12,7 @@ I must be honest, this scripts have many baby steps, I consider them noteworthy 
 
 * [04_Red de Estilos](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Visualization%20(Yed)/04_Red%20de%20Estilos.ipynb), here we see the code for importing a Yed graph to visualize the relationships.
 
-I got the opportunity to develop a model that estimates a range of reception, which likelihood is based on Bayesian theory, see here: 
+I got the opportunity to develop a model that estimates a range of reception, which likelihood is based on Bayesian theory, see here: [code](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Estimations%20(R)/Proyecto_Final_Robles_Leong_Daniel.R), [report](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Estimations%20(R)/Report.pdf)
 
 
 
