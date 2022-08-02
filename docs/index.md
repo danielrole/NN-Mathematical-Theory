@@ -1,4 +1,4 @@
-# My Pathway in Machine Learning
+# My Pathway in Data Science
 ## Visualization and Estimation in Beers Families
 This project was born as my first try at answering a simple question based on data: How probable is one beer to like me as a function of my experience with another?
 
