@@ -1,3 +1,19 @@
+# My Pathway in Machine Learning
+## Visualization and Estimation in Beers Families
+This project was born as my first try at answering a simple question based on data: How probable is one beer to like me as a function of my experience with another?
+
+I must be honest, this scripts have many baby steps, I consider them Noteworthy because of all that they involve: Understanding a field, searching for data, cleaning this data, purpose a model, and explaining results was a rich experience.
+
+[01_Exploración de datos](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Visualization%20(Yed)/01_Exploraci%C3%B3n%20de%20datos.ipynb) is an initial approach to the dataset "Beers, Breweries, and Beer Reviews" obtained in Kaggle.
+
+[02_Código de identificación](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Visualization%20(Yed)/02_C%C3%B3digo%20de%20identificaci%C3%B3n.ipynb) addresses the relationship between the dataset seen in the last script and the categories of the Beer Judge Certification Program, and assigns a unique identification code to each observation.
+
+[03_Variables Categóricas](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Visualization%20(Yed)/03_Variables%20Categ%C3%B3ricas.ipynb) organizes each relation of beers, seen in the BJCP guidelines 2015, in a unique table by their identification code.
+
+[04_Red de Estilos](https://github.com/danielrole/Portfolio/blob/main_1/Beers%20Families%20Visualization%20(Yed)/04_Red%20de%20Estilos.ipynb), here we see the code for importing a Yed graph to visualize the relationships.
+
+
+
 ## Long-Short Term Memory Approximation:
 As Minsky & Papert share in their book perceptrons, these structures have deficiencies, move forward is to explore the architecture and training of Long-Short Term Memory (LSTM) networks for the Regression Problem, Which is trying to reconstruct the original analytical function with noisy observations.
 
