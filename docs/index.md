@@ -1,7 +1,10 @@
 # My Pathway in Data Science
 ## MINST: MLP & CNN aproximation
+As part of my work in the Seminar on Statistical Machine Learning, in collaboration with my team, we develop an approach to classify the MINST dataset
 
-
+See our results here:
+* [code]()
+* [report]()
 
 ## Switzerland PV
 A group of students of which I was a member tried to replicate a method to predict PV production in Switzerland by neural network models, original model: [here](https://arxiv.org/abs/2107.13875).
