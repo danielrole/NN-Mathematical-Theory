@@ -9,7 +9,7 @@ Here is my contribution to visualize the method:
 
 Here is my contribution to obtaining data:
 * [Geographic Data Manipulation](https://github.com/danielrole/Portfolio/blob/main_1/Switzerland%20PV/01_Datos_Geogr%C3%A1ficos.ipynb)
-* [Time series associated]()
+* [Time series associated](https://github.com/danielrole/Portfolio/blob/main_1/Switzerland%20PV/02_Obtencion_de_Datos_2010_2016.ipynb)
 ## Visualization and Estimation in Beers Families
 This project was born as my first try at answering a simple question based on data: How probable is one beer to like me as a function of my experience with another?
 
