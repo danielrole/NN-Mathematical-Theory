@@ -1,4 +1,8 @@
 # My Pathway in Data Science
+## MINST: MLP & CNN aproximation
+
+
+
 ## Switzerland PV
 A group of students of which I was a member tried to replicate a method to predict PV production in Switzerland by neural network models, original model: [here](https://arxiv.org/abs/2107.13875).
 
